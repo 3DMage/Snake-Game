@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Libraries\SerializerLibrary\SerializerLibrary.csproj" />
+    <ProjectReference Include="..\Libraries\ServerGameSimulator\ServerGameSimulator.csproj" />
+    <ProjectReference Include="..\Libraries\TCPServerLibrary\TCPServerLibrary.csproj" />
+  </ItemGroup>
+
+</Project>

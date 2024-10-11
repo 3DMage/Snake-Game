@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\client\\__game\\scenes\\sc_snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|solutionrelative:client\\__game\\scenes\\sc_snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\client\\__game\\snakegame\\systems\\snakesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|solutionrelative:client\\__game\\snakegame\\systems\\snakesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0525AC78-006E-45B9-8A3F-E18CCB329854}|ServerGameSimulator\\ServerGameSimulator.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\servergamesimulator\\simulation\\sim_snakegamecomponents\\objects\\snakecomponents\\sim_snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0525AC78-006E-45B9-8A3F-E18CCB329854}|ServerGameSimulator\\ServerGameSimulator.csproj|solutionrelative:servergamesimulator\\simulation\\sim_snakegamecomponents\\objects\\snakecomponents\\sim_snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\client\\gamecomponents\\_core\\simulatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|solutionrelative:client\\gamecomponents\\_core\\simulatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAA73AF-0D25-46E5-AD7E-9CC936648F50}|NetworkSimulator\\NetworkSimulator.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\networksimulator\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAA73AF-0D25-46E5-AD7E-9CC936648F50}|NetworkSimulator\\NetworkSimulator.csproj|solutionrelative:networksimulator\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C1E22-838D-4E4E-AF6F-B8C8F52091BE}|ServerConsole\\ServerConsole.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\serverconsole\\_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485C1E22-838D-4E4E-AF6F-B8C8F52091BE}|ServerConsole\\ServerConsole.csproj|solutionrelative:serverconsole\\_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\client\\__game\\snakegame\\components\\snakecomponents\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|solutionrelative:client\\__game\\snakegame\\components\\snakecomponents\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0525AC78-006E-45B9-8A3F-E18CCB329854}|ServerGameSimulator\\ServerGameSimulator.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\servergamesimulator\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0525AC78-006E-45B9-8A3F-E18CCB329854}|ServerGameSimulator\\ServerGameSimulator.csproj|solutionrelative:servergamesimulator\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0525AC78-006E-45B9-8A3F-E18CCB329854}|ServerGameSimulator\\ServerGameSimulator.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\servergamesimulator\\simulation\\sim_snakegamecomponents\\systems\\sim_snakesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0525AC78-006E-45B9-8A3F-E18CCB329854}|ServerGameSimulator\\ServerGameSimulator.csproj|solutionrelative:servergamesimulator\\simulation\\sim_snakegamecomponents\\systems\\sim_snakesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0525AC78-006E-45B9-8A3F-E18CCB329854}|ServerGameSimulator\\ServerGameSimulator.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\servergamesimulator\\simulation\\simulationcomponents\\sim_physics_components\\sim_gridcollisionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0525AC78-006E-45B9-8A3F-E18CCB329854}|ServerGameSimulator\\ServerGameSimulator.csproj|solutionrelative:servergamesimulator\\simulation\\simulationcomponents\\sim_physics_components\\sim_gridcollisionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0525AC78-006E-45B9-8A3F-E18CCB329854}|ServerGameSimulator\\ServerGameSimulator.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\servergamesimulator\\simulation\\sim_snakegamecomponents\\objects\\snakecomponents\\sim_head.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0525AC78-006E-45B9-8A3F-E18CCB329854}|ServerGameSimulator\\ServerGameSimulator.csproj|solutionrelative:servergamesimulator\\simulation\\sim_snakegamecomponents\\objects\\snakecomponents\\sim_head.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\client\\__game\\scenes\\sc_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|solutionrelative:client\\__game\\scenes\\sc_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\client\\gamecomponents\\ui\\menus\\mainmenu.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|solutionrelative:client\\gamecomponents\\ui\\menus\\mainmenu.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\client\\gamecomponents\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|solutionrelative:client\\gamecomponents\\input\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\client\\gamecomponents\\scenemanagement\\scenecomponents\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|solutionrelative:client\\gamecomponents\\scenemanagement\\scenecomponents\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\client\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|solutionrelative:client\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\client\\gamecomponents\\ui\\menus\\tutorialscreen.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|solutionrelative:client\\gamecomponents\\ui\\menus\\tutorialscreen.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF98FDE-A8F9-4F7D-B4D7-221C45B9229E}|TCPServerLibrary\\TCPServerLibrary.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\tcpserverlibrary\\workers\\disconnectclientsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF98FDE-A8F9-4F7D-B4D7-221C45B9229E}|TCPServerLibrary\\TCPServerLibrary.csproj|solutionrelative:tcpserverlibrary\\workers\\disconnectclientsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF98FDE-A8F9-4F7D-B4D7-221C45B9229E}|TCPServerLibrary\\TCPServerLibrary.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\tcpserverlibrary\\utilities\\disconnectedclientremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF98FDE-A8F9-4F7D-B4D7-221C45B9229E}|TCPServerLibrary\\TCPServerLibrary.csproj|solutionrelative:tcpserverlibrary\\utilities\\disconnectedclientremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF98FDE-A8F9-4F7D-B4D7-221C45B9229E}|TCPServerLibrary\\TCPServerLibrary.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\tcpserverlibrary\\workers\\messagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF98FDE-A8F9-4F7D-B4D7-221C45B9229E}|TCPServerLibrary\\TCPServerLibrary.csproj|solutionrelative:tcpserverlibrary\\workers\\messagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DD60A0-2642-474A-89AA-C102B6EC798C}|Contracts\\Contracts.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\contracts\\datacontracts\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DD60A0-2642-474A-89AA-C102B6EC798C}|Contracts\\Contracts.csproj|solutionrelative:contracts\\datacontracts\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\client\\gamecomponents\\ui\\gameui\\scoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38813D97-FA05-4EA7-AA5B-D082EE5CF7F9}|Client\\Client.csproj|solutionrelative:client\\gamecomponents\\ui\\gameui\\scoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF98FDE-A8F9-4F7D-B4D7-221C45B9229E}|TCPServerLibrary\\TCPServerLibrary.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\tcpserverlibrary\\faster\\faster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF98FDE-A8F9-4F7D-B4D7-221C45B9229E}|TCPServerLibrary\\TCPServerLibrary.csproj|solutionrelative:tcpserverlibrary\\faster\\faster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B143AA4-24FC-4E86-B449-8C0F80C53E75}|Shared\\Shared.csproj|c:\\users\\xxmat\\onedrive\\desktop\\snakegame v15\\snakegame v15\\snakegame v14\\shared\\datastructures\\context.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6B143AA4-24FC-4E86-B449-8C0F80C53E75}|Shared\\Shared.csproj|solutionrelative:shared\\datastructures\\context.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Server.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\ServerConsole\\_Server.cs",
+              "RelativeDocumentMoniker": "ServerConsole\\_Server.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\ServerConsole\\_Server.cs",
+              "RelativeToolTip": "ServerConsole\\_Server.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAJEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:42:06.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Network.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\NetworkSimulator\\Network.cs",
+              "RelativeDocumentMoniker": "NetworkSimulator\\Network.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\NetworkSimulator\\Network.cs",
+              "RelativeToolTip": "NetworkSimulator\\Network.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:37:46.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sim_Head.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\ServerGameSimulator\\Simulation\\Sim_SnakeGameComponents\\Objects\\SnakeComponents\\Sim_Head.cs",
+              "RelativeDocumentMoniker": "ServerGameSimulator\\Simulation\\Sim_SnakeGameComponents\\Objects\\SnakeComponents\\Sim_Head.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\ServerGameSimulator\\Simulation\\Sim_SnakeGameComponents\\Objects\\SnakeComponents\\Sim_Head.cs",
+              "RelativeToolTip": "ServerGameSimulator\\Simulation\\Sim_SnakeGameComponents\\Objects\\SnakeComponents\\Sim_Head.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:04:34.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sim_SnakeSystem.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\ServerGameSimulator\\Simulation\\Sim_SnakeGameComponents\\Systems\\Sim_SnakeSystem.cs",
+              "RelativeDocumentMoniker": "ServerGameSimulator\\Simulation\\Sim_SnakeGameComponents\\Systems\\Sim_SnakeSystem.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\ServerGameSimulator\\Simulation\\Sim_SnakeGameComponents\\Systems\\Sim_SnakeSystem.cs",
+              "RelativeToolTip": "ServerGameSimulator\\Simulation\\Sim_SnakeGameComponents\\Systems\\Sim_SnakeSystem.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:04:34.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sc_SnakeGame.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\__GAME\\Scenes\\Sc_SnakeGame.cs",
+              "RelativeDocumentMoniker": "Client\\__GAME\\Scenes\\Sc_SnakeGame.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\__GAME\\Scenes\\Sc_SnakeGame.cs",
+              "RelativeToolTip": "Client\\__GAME\\Scenes\\Sc_SnakeGame.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAAACgCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:00:44.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\GameComponents\\UI\\Menus\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Client\\GameComponents\\UI\\Menus\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\GameComponents\\UI\\Menus\\MainMenu.cs",
+              "RelativeToolTip": "Client\\GameComponents\\UI\\Menus\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:40:58.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SnakeSystem.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\__GAME\\SnakeGame\\Systems\\SnakeSystem.cs",
+              "RelativeDocumentMoniker": "Client\\__GAME\\SnakeGame\\Systems\\SnakeSystem.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\__GAME\\SnakeGame\\Systems\\SnakeSystem.cs",
+              "RelativeToolTip": "Client\\__GAME\\SnakeGame\\Systems\\SnakeSystem.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:05:14.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sim_Snake.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\ServerGameSimulator\\Simulation\\Sim_SnakeGameComponents\\Objects\\SnakeComponents\\Sim_Snake.cs",
+              "RelativeDocumentMoniker": "ServerGameSimulator\\Simulation\\Sim_SnakeGameComponents\\Objects\\SnakeComponents\\Sim_Snake.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\ServerGameSimulator\\Simulation\\Sim_SnakeGameComponents\\Objects\\SnakeComponents\\Sim_Snake.cs",
+              "RelativeToolTip": "ServerGameSimulator\\Simulation\\Sim_SnakeGameComponents\\Objects\\SnakeComponents\\Sim_Snake.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAawIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:48:48.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimulatorManager.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\GameComponents\\_Core\\SimulatorManager.cs",
+              "RelativeDocumentMoniker": "Client\\GameComponents\\_Core\\SimulatorManager.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\GameComponents\\_Core\\SimulatorManager.cs",
+              "RelativeToolTip": "Client\\GameComponents\\_Core\\SimulatorManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:06:29.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\__GAME\\SnakeGame\\Components\\SnakeComponents\\Snake.cs",
+              "RelativeDocumentMoniker": "Client\\__GAME\\SnakeGame\\Components\\SnakeComponents\\Snake.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\__GAME\\SnakeGame\\Components\\SnakeComponents\\Snake.cs",
+              "RelativeToolTip": "Client\\__GAME\\SnakeGame\\Components\\SnakeComponents\\Snake.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAMwKIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:05:02.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Simulator.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\ServerGameSimulator\\Simulator.cs",
+              "RelativeDocumentMoniker": "ServerGameSimulator\\Simulator.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\ServerGameSimulator\\Simulator.cs",
+              "RelativeToolTip": "ServerGameSimulator\\Simulator.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAH8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:48:12.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sim_GridCollisionHandling.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\ServerGameSimulator\\Simulation\\SimulationComponents\\Sim_Physics_Components\\Sim_GridCollisionHandling.cs",
+              "RelativeDocumentMoniker": "ServerGameSimulator\\Simulation\\SimulationComponents\\Sim_Physics_Components\\Sim_GridCollisionHandling.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\ServerGameSimulator\\Simulation\\SimulationComponents\\Sim_Physics_Components\\Sim_GridCollisionHandling.cs",
+              "RelativeToolTip": "ServerGameSimulator\\Simulation\\SimulationComponents\\Sim_Physics_Components\\Sim_GridCollisionHandling.cs",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAMwPgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:58:14.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:24:53.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\MainGame.cs",
+              "RelativeDocumentMoniker": "Client\\MainGame.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\MainGame.cs",
+              "RelativeToolTip": "Client\\MainGame.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAMwFEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:24:55.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sc_Menu.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\__GAME\\Scenes\\Sc_Menu.cs",
+              "RelativeDocumentMoniker": "Client\\__GAME\\Scenes\\Sc_Menu.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\__GAME\\Scenes\\Sc_Menu.cs",
+              "RelativeToolTip": "Client\\__GAME\\Scenes\\Sc_Menu.cs",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAAABQBAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:39:58.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TutorialScreen.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\GameComponents\\UI\\Menus\\TutorialScreen.cs",
+              "RelativeDocumentMoniker": "Client\\GameComponents\\UI\\Menus\\TutorialScreen.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\GameComponents\\UI\\Menus\\TutorialScreen.cs",
+              "RelativeToolTip": "Client\\GameComponents\\UI\\Menus\\TutorialScreen.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:43:27.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Shared\\Datastructures\\Context.cs",
+              "RelativeDocumentMoniker": "Shared\\Datastructures\\Context.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Shared\\Datastructures\\Context.cs",
+              "RelativeToolTip": "Shared\\Datastructures\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:52:52.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\GameComponents\\Input\\InputManager.cs",
+              "RelativeDocumentMoniker": "Client\\GameComponents\\Input\\InputManager.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\GameComponents\\Input\\InputManager.cs",
+              "RelativeToolTip": "Client\\GameComponents\\Input\\InputManager.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAHoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:08:55.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\GameComponents\\SceneManagement\\SceneComponents\\Scene.cs",
+              "RelativeDocumentMoniker": "Client\\GameComponents\\SceneManagement\\SceneComponents\\Scene.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\GameComponents\\SceneManagement\\SceneComponents\\Scene.cs",
+              "RelativeToolTip": "Client\\GameComponents\\SceneManagement\\SceneComponents\\Scene.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:09:04.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MessageSender.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\TCPServerLibrary\\Workers\\MessageSender.cs",
+              "RelativeDocumentMoniker": "TCPServerLibrary\\Workers\\MessageSender.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\TCPServerLibrary\\Workers\\MessageSender.cs",
+              "RelativeToolTip": "TCPServerLibrary\\Workers\\MessageSender.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:09:24.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DisconnectClientsManager.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\TCPServerLibrary\\Workers\\DisconnectClientsManager.cs",
+              "RelativeDocumentMoniker": "TCPServerLibrary\\Workers\\DisconnectClientsManager.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\TCPServerLibrary\\Workers\\DisconnectClientsManager.cs",
+              "RelativeToolTip": "TCPServerLibrary\\Workers\\DisconnectClientsManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:09:22.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DisconnectedClientRemover.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\TCPServerLibrary\\Utilities\\DisconnectedClientRemover.cs",
+              "RelativeDocumentMoniker": "TCPServerLibrary\\Utilities\\DisconnectedClientRemover.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\TCPServerLibrary\\Utilities\\DisconnectedClientRemover.cs",
+              "RelativeToolTip": "TCPServerLibrary\\Utilities\\DisconnectedClientRemover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:19:31.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Output.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Contracts\\DataContracts\\Output.cs",
+              "RelativeDocumentMoniker": "Contracts\\DataContracts\\Output.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Contracts\\DataContracts\\Output.cs",
+              "RelativeToolTip": "Contracts\\DataContracts\\Output.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:15:15.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScoreUI.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\GameComponents\\UI\\GameUI\\ScoreUI.cs",
+              "RelativeDocumentMoniker": "Client\\GameComponents\\UI\\GameUI\\ScoreUI.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\Client\\GameComponents\\UI\\GameUI\\ScoreUI.cs",
+              "RelativeToolTip": "Client\\GameComponents\\UI\\GameUI\\ScoreUI.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:10:06.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Faster.cs",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\TCPServerLibrary\\Faster\\Faster.cs",
+              "RelativeDocumentMoniker": "TCPServerLibrary\\Faster\\Faster.cs",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\TCPServerLibrary\\Faster\\Faster.cs",
+              "RelativeToolTip": "TCPServerLibrary\\Faster\\Faster.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAADwv1cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:59:44.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "notes.txt",
+              "DocumentMoniker": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\notes.txt",
+              "RelativeDocumentMoniker": "notes.txt",
+              "ToolTip": "C:\\Users\\xxmat\\OneDrive\\Desktop\\SnakeGame v15\\SnakeGame v15\\SnakeGame v14\\notes.txt",
+              "RelativeToolTip": "notes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-18T20:50:38.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
